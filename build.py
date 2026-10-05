@@ -4,10 +4,10 @@ by = {o['brand']: o for o in src}
 e = html.escape
 # Featured (order requested), with blurbs drawn only from links.json facts
 featured = [
- ("Polymarket", "Prediction markets", "Give $50 / Get $50"),
+ ("Polymarket", "Prediction markets", "Free credit when you sign up with code dfsjoeyog"),
  ("Kalshi", "Prediction markets", ""),
  ("Rebet", "Free daily app", ""),
- ("Dabble", "DFS pick'em", "Play $5, get $50 Bonus Cash"),
+ ("Dabble", "DFS pick'em", "Free credit when you sign up with code DFSJOEYOG"),
  ("DraftKings Sportsbook", "Sportsbook · Illinois", ""),
  ("ero", "Earn app", "+50% on everything you earn in your first 24 hours"),
 ]
