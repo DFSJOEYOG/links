@@ -4,6 +4,7 @@ by = {o['brand']: o for o in src}
 e = html.escape
 # Featured (order requested), with blurbs drawn only from links.json facts
 featured = [
+ ("SmackTok", "New app", "Join me on SmackTok. Use my code ST-JL2343 when you sign up"),
  ("Polymarket", "Prediction markets", "Free credit when you sign up with code dfsjoeyog"),
  ("Kalshi", "Prediction markets", ""),
  ("Rebet", "Free daily app", ""),
